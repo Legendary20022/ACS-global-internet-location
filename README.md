@@ -1,2 +1,2 @@
-# ACS-global-internet-location
-ACS_GLOBAL-INTERNET-LOCATION
+# acs-global-internet-connect
+ACS GLOBAL INTERNET CONNECT application 
